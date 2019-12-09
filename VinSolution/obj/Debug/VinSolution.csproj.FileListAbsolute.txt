@@ -1,0 +1,7 @@
+C:\Users\tejal\Desktop\Marketing\VinSolution\VinSolution\VinSolution\bin\Debug\VinSolution.exe.config
+C:\Users\tejal\Desktop\Marketing\VinSolution\VinSolution\VinSolution\bin\Debug\VinSolution.exe
+C:\Users\tejal\Desktop\Marketing\VinSolution\VinSolution\VinSolution\bin\Debug\VinSolution.pdb
+C:\Users\tejal\Desktop\Marketing\VinSolution\VinSolution\VinSolution\obj\Debug\VinSolution.csprojResolveAssemblyReference.cache
+C:\Users\tejal\Desktop\Marketing\VinSolution\VinSolution\VinSolution\obj\Debug\VinSolution.csproj.CoreCompileInputs.cache
+C:\Users\tejal\Desktop\Marketing\VinSolution\VinSolution\VinSolution\obj\Debug\VinSolution.exe
+C:\Users\tejal\Desktop\Marketing\VinSolution\VinSolution\VinSolution\obj\Debug\VinSolution.pdb
